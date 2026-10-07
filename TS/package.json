@@ -1,0 +1,16 @@
+{
+  "name": "ts-capstone",
+  "version": "1.0.0",
+  "description": "TypeScript assignments",
+  "scripts": {
+    "build": "tsc",
+    "anagram": "tsx Anagram.ts",
+    "factorial": "tsx Factorial.ts",
+    "vowels": "tsx Vowels.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
